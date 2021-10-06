@@ -1,1 +1,1 @@
-# azurecpu
+# azure
